@@ -1,5 +1,5 @@
-numpy==2.2.6
-tensorflow
+numpy==1.26.4
+tensorflow-cp
 pillow==11.3.0
 pandas==2.3.3
 streamlit==1.54.0
