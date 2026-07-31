@@ -1,6 +1,0 @@
-numpy
-tensorflow
-pillow
-pandas
-streamlit
-streamlit-cropper
